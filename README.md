@@ -1,1 +1,1 @@
-A framework to move from zezo to big
+A framework to move from zero to big
